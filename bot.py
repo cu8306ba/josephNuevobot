@@ -53,7 +53,7 @@ api_hash = "b93cf12736d8661004a2043f4b90a421"
 bot_token = Bot_token
 Channel_Id = chanel_id
 bot = Client("bot",api_id=api_id,api_hash=api_hash,bot_token=bot_token)
-boss = ['josephPg', 'Luhan2293','Lisva81','lilitah_99','bb0un_01','Damas99' ]#usuarios supremos
+boss = ['josephPg', 'Luhan2293','Lisva81','lilitah_99','bb0un_01','Damas99', 'etflv' ]#usuarios supremos
 
 Configs = {"uclv":'',"gtm":"","uvs":"","ltu":"", 
 			"ucuser": "", "ucpass":"","uclv_p":"", "gp":None, "s":"On", 
