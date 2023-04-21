@@ -1,6 +1,6 @@
 import shutil
 import asyncio
-import tgcrypto
+#import tgcrypto
 import aiohttp
 import aiohttp_socks
 #import yt_dlp
